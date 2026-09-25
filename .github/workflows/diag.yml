@@ -1,25 +1,32 @@
-name: Diagnose deployed addon
+name: Verify catalog-only addon
 
 on:
   push:
     paths:
+      - 'addon/**'
+      - 'catalogs-source.json'
+      - 'lib/**'
+      - 'tools/**'
+      - 'tests/**'
+      - 'worker.js'
       - '.github/workflows/diag.yml'
+  pull_request:
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
-  diagnose:
+  verify:
     runs-on: ubuntu-latest
     steps:
-      - name: Probe Worker routes
-        run: |
-          set +e
-          BASE="https://cinemana-stremio.crimson-ocarina-23a.workers.dev"
-          echo "=== HEALTH ==="
-          curl -sS -i --max-time 20 "$BASE/health"
-          echo
-          echo "=== MANIFEST ==="
-          curl -sS -i --max-time 20 "$BASE/manifest.json" | head -80
-          echo
-          echo "=== STREAM 2012 ==="
-          curl -sS -i --max-time 20 "$BASE/stream/movie/tt1190080.json" | head -120
-          echo
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Rebuild without network dependencies
+        run: node tools/refresh.mjs
+      - name: Verify catalog and no-playback contract
+        run: node --test tests/catalog-only.test.mjs
+      - name: Check committed catalogs are current
+        run: git diff --exit-code -- addon/

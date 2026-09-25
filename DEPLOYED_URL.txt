@@ -1,1 +1,1 @@
-https://cinemana-stremio.crimson-ocarina-23a.workers.dev/manifest.json\n
+https://raw.githubusercontent.com/mohammadmrh12/cinemana-stremio/main/addon/manifest.json
