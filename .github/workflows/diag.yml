@@ -1,0 +1,25 @@
+name: Diagnose deployed addon
+
+on:
+  push:
+    paths:
+      - '.github/workflows/diag.yml'
+  workflow_dispatch:
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe Worker routes
+        run: |
+          set +e
+          BASE="https://cinemana-stremio.crimson-ocarina-23a.workers.dev"
+          echo "=== HEALTH ==="
+          curl -sS -i --max-time 20 "$BASE/health"
+          echo
+          echo "=== MANIFEST ==="
+          curl -sS -i --max-time 20 "$BASE/manifest.json" | head -80
+          echo
+          echo "=== STREAM 2012 ==="
+          curl -sS -i --max-time 20 "$BASE/stream/movie/tt1190080.json" | head -120
+          echo
