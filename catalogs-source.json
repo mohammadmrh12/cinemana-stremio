@@ -1,0 +1,6066 @@
+[
+  {
+    "id": "developer-picks",
+    "type": "movie",
+    "title": "اختيارات مطوّر Cinematic+",
+    "title_en": "Cinematic+ Developer's Picks",
+    "members": [
+      {
+        "imdb": "tt1446714",
+        "title": "Prometheus",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2316204",
+        "title": "Alien: Covenant",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0816692",
+        "title": "Interstellar",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0414387",
+        "title": "Pride & Prejudice",
+        "year": 2005,
+        "kind": 1,
+        "aliases": [
+          "Pride and Prejudice"
+        ]
+      },
+      {
+        "imdb": "tt0469494",
+        "title": "There Will Be Blood",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0361748",
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "kind": 1,
+        "aliases": [
+          "Inglorious Basterds"
+        ]
+      },
+      {
+        "imdb": "tt3460252",
+        "title": "The Hateful Eight",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0208092",
+        "title": "Snatch",
+        "year": 2000,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt12361974",
+        "title": "Zack Snyder's Justice League",
+        "year": 2021,
+        "kind": 1,
+        "aliases": [
+          "Zack Snyder Justice League",
+          "Justice League Snyder Cut"
+        ]
+      },
+      {
+        "imdb": "tt1375666",
+        "title": "Inception",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-apple-originals-movie",
+    "type": "movie",
+    "title": "Apple Originals — أفلام ومسلسلات",
+    "title_en": "Apple Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "CODA",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Killers of the Flower Moon",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Napoleon",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Tetris",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Greyhound",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Finch",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Gorge",
+        "year": 2025,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Wolfs",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Blitz",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Instigators",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Palmer",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-apple-originals-series",
+    "type": "series",
+    "title": "Apple Originals — أفلام ومسلسلات",
+    "title_en": "Apple Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "Severance",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Ted Lasso",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Morning Show",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Silo",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Foundation",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Slow Horses",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "For All Mankind",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Shrinking",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Dark Matter",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Presumed Innocent",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Black Bird",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Hijack",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Bad Sisters",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Pachinko",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Studio",
+        "year": 2025,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Disclaimer",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Masters of the Air",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Lessons in Chemistry",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Monarch: Legacy of Monsters",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Servant",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Shining Girls",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "See",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-netflix-originals-movie",
+    "type": "movie",
+    "title": "Netflix Originals — أفلام ومسلسلات",
+    "title_en": "Netflix Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "Roma",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Irishman",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Marriage Story",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "All Quiet on the Western Front",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Power of the Dog",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Don't Look Up",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Glass Onion: A Knives Out Mystery",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Killer",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Society of the Snow",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Trial of the Chicago 7",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Extraction",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Extraction 2",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Ballad of Buster Scruggs",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Beasts of No Nation",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Ma Rainey's Black Bottom",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-netflix-originals-series",
+    "type": "series",
+    "title": "Netflix Originals — أفلام ومسلسلات",
+    "title_en": "Netflix Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "Stranger Things",
+        "year": 2016,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Dark",
+        "year": 2017,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Crown",
+        "year": 2016,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Narcos",
+        "year": 2015,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Mindhunter",
+        "year": 2017,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Ozark",
+        "year": 2017,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Squid Game",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Queen's Gambit",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Beef",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Wednesday",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Haunting of Hill House",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "3 Body Problem",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Diplomat",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Night Agent",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Ripley",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Baby Reindeer",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Gentlemen",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "One Piece",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Arcane",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "House of Cards",
+        "year": 2013,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Orange Is the New Black",
+        "year": 2013,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "BoJack Horseman",
+        "year": 2014,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Narcos: Mexico",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The OA",
+        "year": 2016,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "1899",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Midnight Mass",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Sandman",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Maid",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Unbelievable",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-prime-originals-movie",
+    "type": "movie",
+    "title": "Prime Video Originals — أفلام ومسلسلات",
+    "title_en": "Prime Video Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "Manchester by the Sea",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Sound of Metal",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "One Night in Miami...",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Air",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Saltburn",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Road House",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Tomorrow War",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Borat Subsequent Moviefilm",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Idea of You",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Coming 2 America",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-prime-originals-series",
+    "type": "series",
+    "title": "Prime Video Originals — أفلام ومسلسلات",
+    "title_en": "Prime Video Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "The Boys",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Reacher",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Fallout",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Marvelous Mrs. Maisel",
+        "year": 2017,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Invincible",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Man in the High Castle",
+        "year": 2015,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Wheel of Time",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Lord of the Rings: The Rings of Power",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Gen V",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Mr. & Mrs. Smith",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Upload",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Bosch",
+        "year": 2014,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Patriot",
+        "year": 2015,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Underground Railroad",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Them",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Outer Range",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Peripheral",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Citadel",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Good Omens",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Hanna",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Homecoming",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Hunters",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Daisy Jones & The Six",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-osn-originals-movie",
+    "type": "movie",
+    "title": "OSN+ Originals — أفلام ومسلسلات",
+    "title_en": "OSN+ Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "tt29344894",
+        "title": "All That's Left of You",
+        "year": 2025,
+        "kind": 1,
+        "aliases": [
+          "اللي باقي منك"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "My Driver And I",
+        "year": 2023,
+        "kind": 1,
+        "aliases": [
+          "سلمى وقمر"
+        ]
+      },
+      {
+        "imdb": "tt19550082",
+        "title": "Yellow Bus",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-osn-originals-series",
+    "type": "series",
+    "title": "OSN+ Originals — أفلام ومسلسلات",
+    "title_en": "OSN+ Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "Suits Arabia",
+        "year": 2022,
+        "kind": 2,
+        "aliases": [
+          "سوتس بالعربي",
+          "Suits Arabic"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "The Fashionista",
+        "year": 2025,
+        "kind": 2,
+        "aliases": [
+          "الفاشنيستا"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Qayd Majhoul",
+        "year": 2021,
+        "kind": 2,
+        "aliases": [
+          "قيد مجهول"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "El Wada' Mustaqer",
+        "year": 2022,
+        "kind": 2,
+        "aliases": [
+          "الوضع مستقر",
+          "El Wadaa Mostaker"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Qa'det Reggala",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "قعدة رجالة",
+          "Qaedet Regala"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "No Man's Land",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Harb Alameya",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "حرب عالمية"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Hazer Tejwal",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "حظر تجول",
+          "Curfew"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Jalsa with Anas & Hala",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "جلسة مع أنس وهالة"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "platform-hbo-originals-movie",
+    "type": "movie",
+    "title": "HBO Originals — أفلام ومسلسلات",
+    "title_en": "HBO Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "Bad Education",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Normal Heart",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Behind the Candelabra",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Oslo",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Reality",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "All the Way",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-hbo-originals-series",
+    "type": "series",
+    "title": "HBO Originals — أفلام ومسلسلات",
+    "title_en": "HBO Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "The Sopranos",
+        "year": 1999,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Wire",
+        "year": 2002,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Game of Thrones",
+        "year": 2011,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Succession",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Last of Us",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "True Detective",
+        "year": 2014,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Chernobyl",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Band of Brothers",
+        "year": 2001,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Boardwalk Empire",
+        "year": 2010,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Six Feet Under",
+        "year": 2001,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Leftovers",
+        "year": 2014,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Barry",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The White Lotus",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Euphoria",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "House of the Dragon",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Mare of Easttown",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Night Of",
+        "year": 2016,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Veep",
+        "year": 2012,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Watchmen",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Sharp Objects",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Big Little Lies",
+        "year": 2017,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Outsider",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Westworld",
+        "year": 2016,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Penguin",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Sympathizer",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Regime",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-disney-originals-movie",
+    "type": "movie",
+    "title": "Disney+ Originals — أفلام ومسلسلات",
+    "title_en": "Disney+ Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "Togo",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Noelle",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Lady and the Tramp",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Timmy Failure: Mistakes Were Made",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Stargirl",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Clouds",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Safety",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Flora & Ulysses",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Chip 'n Dale: Rescue Rangers",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Hocus Pocus 2",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Disenchanted",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Peter Pan & Wendy",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Crater",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-disney-originals-series",
+    "type": "series",
+    "title": "Disney+ Originals — أفلام ومسلسلات",
+    "title_en": "Disney+ Originals — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "The Mandalorian",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Loki",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Andor",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "WandaVision",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Ahsoka",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Hawkeye",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Moon Knight",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Percy Jackson and the Olympians",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "X-Men '97",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Agatha All Along",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Daredevil: Born Again",
+        "year": 2025,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Falcon and the Winter Soldier",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Ms. Marvel",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Obi-Wan Kenobi",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Star Wars: Skeleton Crew",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Bad Batch",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "What If...?",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "platform-shahid-originals-movie",
+    "type": "movie",
+    "title": "Shahid Originals & Exclusives — أفلام ومسلسلات",
+    "title_en": "Shahid Originals & Exclusives — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "Saheb El Makam",
+        "year": 2020,
+        "kind": 1,
+        "aliases": [
+          "صاحب المقام"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Shams Al Maaref",
+        "year": 2020,
+        "kind": 1,
+        "aliases": [
+          "شمس المعارف"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Had El Tar",
+        "year": 2020,
+        "kind": 1,
+        "aliases": [
+          "حد الطار"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "platform-shahid-originals-series",
+    "type": "series",
+    "title": "Shahid Originals & Exclusives — أفلام ومسلسلات",
+    "title_en": "Shahid Originals & Exclusives — Movies & Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "El Diva",
+        "year": 2019,
+        "kind": 2,
+        "aliases": [
+          "الديفا",
+          "The Diva"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Fi Kol Osboua Youm Gomaa",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "في كل أسبوع يوم جمعة",
+          "Every Week Has a Friday"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Ahd Al-Dam",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "عهد الدم",
+          "Blood Oath"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Huna al'ard",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "هنا الأرض",
+          "Here is Earth"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Al Shak",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "الشك",
+          "Doubt"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Khurais",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "خريص"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Mamlaket Eblis",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "مملكة إبليس",
+          "Kingdom of Satan"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "El Harami",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "الحرامي",
+          "The Thief"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "The Case",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "القضية"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Karimophobia",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "كريموفوبيا"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Beirut 6:07",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "بيروت 6:07"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Nemra Etnein",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "نمرة اتنين",
+          "This Other Thing"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "El Omara",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "العمارة",
+          "The Building"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Al Daheeh Museum",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "متحف الدحيح",
+          "Daheeh's Museum"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "The Fixer",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "فكسر"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Rashash",
+        "year": 2021,
+        "kind": 2,
+        "aliases": [
+          "رشاش"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Salon Zahra",
+        "year": 2021,
+        "kind": 2,
+        "aliases": [
+          "صالون زهرة"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Family Matter",
+        "year": 2021,
+        "kind": 2,
+        "aliases": [
+          "موضوع عائلي"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Bimbo",
+        "year": 2021,
+        "kind": 2,
+        "aliases": [
+          "بيمبو"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "The Eight",
+        "year": 2022,
+        "kind": 2,
+        "aliases": [
+          "الثمانية"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Room 207",
+        "year": 2022,
+        "kind": 2,
+        "aliases": [
+          "غرفة 207"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "The Devil's Promise",
+        "year": 2022,
+        "kind": 2,
+        "aliases": [
+          "وعد إبليس"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Munataf Khatar",
+        "year": 2022,
+        "kind": 2,
+        "aliases": [
+          "منعطف خطر"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Al Thaman",
+        "year": 2023,
+        "kind": 2,
+        "aliases": [
+          "الثمن"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "The Butcher of Giza",
+        "year": 2023,
+        "kind": 2,
+        "aliases": [
+          "سفاح الجيزة",
+          "Safah El Giza"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "theme-atmospheric-mystery-series",
+    "type": "series",
+    "title": "أفضل مسلسلات الغموض والأسرار والأجواء الغامضة",
+    "title_en": "Best Atmospheric Mystery Series",
+    "members": [
+      {
+        "imdb": "",
+        "title": "Lost",
+        "year": 2004,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "From",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Dark Matter",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Leftovers",
+        "year": 2014,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Manifest",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Silo",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "True Detective",
+        "year": 2014,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Dark",
+        "year": 2017,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Severance",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Yellowjackets",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The OA",
+        "year": 2016,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "1899",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Wayward Pines",
+        "year": 2015,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Twin Peaks",
+        "year": 1990,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Devil's Hour",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Bodies",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Outer Range",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Counterpart",
+        "year": 2017,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Devs",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Station Eleven",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Midnight Mass",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Under the Dome",
+        "year": 2013,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Society",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Archive 81",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Resort",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Servant",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Shining Girls",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Constellation",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Lazarus Project",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Dark Winds",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Mare of Easttown",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Sharp Objects",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Homecoming",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Outsider",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Castle Rock",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Third Day",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "11.22.63",
+        "year": 2016,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Fringe",
+        "year": 2008,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Westworld",
+        "year": 2016,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Behind Her Eyes",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Katla",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Equinox",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Glitch",
+        "year": 2015,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Curon",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "The Returned",
+        "year": 2015,
+        "kind": 2,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-zombie-movies",
+    "type": "movie",
+    "title": "عالم الزومبي: أفلام",
+    "title_en": "Zombie World: Movies",
+    "members": [
+      {
+        "imdb": "tt0289043",
+        "title": "28 Days Later",
+        "year": 2002,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0463854",
+        "title": "28 Weeks Later",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0816711",
+        "title": "World War Z",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5700672",
+        "title": "Train to Busan",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0363547",
+        "title": "Dawn of the Dead",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1156398",
+        "title": "Zombieland",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1560220",
+        "title": "Zombieland: Double Tap",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0365748",
+        "title": "Shaun of the Dead",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0120804",
+        "title": "Resident Evil",
+        "year": 2002,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0318627",
+        "title": "Resident Evil: Apocalypse",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0993840",
+        "title": "Army of the Dead",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt10620868",
+        "title": "#Alive",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt8850222",
+        "title": "Peninsula",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4547056",
+        "title": "The Girl with All the Gifts",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-zombie-series",
+    "type": "series",
+    "title": "عالم الزومبي: مسلسلات",
+    "title_en": "Zombie World: Series",
+    "members": [
+      {
+        "imdb": "tt1520211",
+        "title": "The Walking Dead",
+        "year": 2010,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3743822",
+        "title": "Fear the Walking Dead",
+        "year": 2015,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt14169960",
+        "title": "All of Us Are Dead",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6611916",
+        "title": "Kingdom",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt8923854",
+        "title": "Black Summer",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3843168",
+        "title": "Z Nation",
+        "year": 2014,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5580540",
+        "title": "Santa Clarita Diet",
+        "year": 2017,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3501584",
+        "title": "iZombie",
+        "year": 2015,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3581920",
+        "title": "The Last of Us",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-apocalypse-movies",
+    "type": "movie",
+    "title": "نهاية العالم: أفلام",
+    "title_en": "Apocalypse: Movies",
+    "members": [
+      {
+        "imdb": "tt0898367",
+        "title": "The Road",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0206634",
+        "title": "Children of Men",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1392190",
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt12037194",
+        "title": "Furiosa: A Mad Max Saga",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0480249",
+        "title": "I Am Legend",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1190080",
+        "title": "2012",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt7737786",
+        "title": "Greenland",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6644200",
+        "title": "A Quiet Place",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt8332922",
+        "title": "A Quiet Place Part II",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1037705",
+        "title": "The Book of Eli",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1706620",
+        "title": "Snowpiercer",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt11286314",
+        "title": "Don't Look Up",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0120647",
+        "title": "Deep Impact",
+        "year": 1998,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0319262",
+        "title": "The Day After Tomorrow",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0407304",
+        "title": "War of the Worlds",
+        "year": 2005,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0448011",
+        "title": "Knowing",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-apocalypse-series",
+    "type": "series",
+    "title": "نهاية العالم: مسلسلات",
+    "title_en": "Apocalypse: Series",
+    "members": [
+      {
+        "imdb": "tt3581920",
+        "title": "The Last of Us",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt12637874",
+        "title": "Fallout",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt14688458",
+        "title": "Silo",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6156584",
+        "title": "Snowpiercer",
+        "year": 2020,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt10574236",
+        "title": "Station Eleven",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2661044",
+        "title": "The 100",
+        "year": 2014,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt7949218",
+        "title": "See",
+        "year": 2019,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3865236",
+        "title": "Into the Badlands",
+        "year": 2015,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6656238",
+        "title": "The Rain",
+        "year": 2018,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt12809988",
+        "title": "Sweet Tooth",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1520211",
+        "title": "The Walking Dead",
+        "year": 2010,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3743822",
+        "title": "Fear the Walking Dead",
+        "year": 2015,
+        "kind": 2,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-plot-twist",
+    "type": "movie",
+    "title": "أفضل أفلام الحبكات الملتوية والنهايات الصادمة",
+    "title_en": "Best Plot-Twist Movies",
+    "members": [
+      {
+        "imdb": "tt0137523",
+        "title": "Fight Club",
+        "year": 1999,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0482571",
+        "title": "The Prestige",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1130884",
+        "title": "Shutter Island",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0167404",
+        "title": "The Sixth Sense",
+        "year": 1999,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0209144",
+        "title": "Memento",
+        "year": 2000,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0114814",
+        "title": "The Usual Suspects",
+        "year": 1995,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0117381",
+        "title": "Primal Fear",
+        "year": 1996,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2267998",
+        "title": "Gone Girl",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0114369",
+        "title": "Se7en",
+        "year": 1995,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0364569",
+        "title": "Oldboy",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2397535",
+        "title": "Predestination",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0230600",
+        "title": "The Others",
+        "year": 2001,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1255953",
+        "title": "Incendies",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0119174",
+        "title": "The Game",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0309698",
+        "title": "Identity",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2866360",
+        "title": "Coherence",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1187064",
+        "title": "Triangle",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0361862",
+        "title": "The Machinist",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-mystery",
+    "type": "movie",
+    "title": "أفضل أفلام الغموض والتحقيق",
+    "title_en": "Best Mystery Movies",
+    "members": [
+      {
+        "imdb": "tt1392214",
+        "title": "Prisoners",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0443706",
+        "title": "Zodiac",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt8946378",
+        "title": "Knives Out",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0327056",
+        "title": "Mystic River",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0119488",
+        "title": "L.A. Confidential",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0353969",
+        "title": "Memories of Murder",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1568346",
+        "title": "The Girl with the Dragon Tattoo",
+        "year": 2011,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5362988",
+        "title": "Wind River",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt7668870",
+        "title": "Searching",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4857264",
+        "title": "The Invisible Guest",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0452623",
+        "title": "Gone Baby Gone",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0071315",
+        "title": "Chinatown",
+        "year": 1974,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0047396",
+        "title": "Rear Window",
+        "year": 1954,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0052357",
+        "title": "Vertigo",
+        "year": 1958,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt11564570",
+        "title": "Glass Onion",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3402236",
+        "title": "Murder on the Orient Express",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-cosmos-divine",
+    "type": "movie",
+    "title": "الكون والوجود والإله",
+    "title_en": "Cosmos, Existence & the Divine",
+    "members": [
+      {
+        "imdb": "tt0816692",
+        "title": "Interstellar",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0118884",
+        "title": "Contact",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0478304",
+        "title": "The Tree of Life",
+        "year": 2011,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0062622",
+        "title": "2001: A Space Odyssey",
+        "year": 1968,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0414993",
+        "title": "The Fountain",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0454876",
+        "title": "Life of Pi",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0756683",
+        "title": "The Man from Earth",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0485947",
+        "title": "Mr. Nobody",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1371111",
+        "title": "Cloud Atlas",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6265828",
+        "title": "A Ghost Story",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2872518",
+        "title": "The Shack",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0120889",
+        "title": "What Dreams May Come",
+        "year": 1998,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0050976",
+        "title": "The Seventh Seal",
+        "year": 1957,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-greek-mythology",
+    "type": "movie",
+    "title": "أساطير وآلهة اليونان",
+    "title_en": "Greek Gods & Mythology",
+    "members": [
+      {
+        "imdb": "tt0800320",
+        "title": "Clash of the Titans",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1646987",
+        "title": "Wrath of the Titans",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1253864",
+        "title": "Immortals",
+        "year": 2011,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1267297",
+        "title": "Hercules",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1043726",
+        "title": "The Legend of Hercules",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0814255",
+        "title": "Percy Jackson & the Olympians: The Lightning Thief",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1854564",
+        "title": "Percy Jackson: Sea of Monsters",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0332452",
+        "title": "Troy",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0416449",
+        "title": "300",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1253863",
+        "title": "300: Rise of an Empire",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0057197",
+        "title": "Jason and the Argonauts",
+        "year": 1963,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0119282",
+        "title": "Hercules",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-game-series",
+    "type": "series",
+    "title": "أفضل المسلسلات المقتبسة من الألعاب",
+    "title_en": "Best Video Game TV Adaptations",
+    "members": [
+      {
+        "imdb": "tt11126994",
+        "title": "Arcane",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3581920",
+        "title": "The Last of Us",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt12637874",
+        "title": "Fallout",
+        "year": 2024,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt12590266",
+        "title": "Cyberpunk: Edgerunners",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6517102",
+        "title": "Castlevania",
+        "year": 2017,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2934286",
+        "title": "Halo",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt14261112",
+        "title": "Twisted Metal",
+        "year": 2023,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt14069590",
+        "title": "Dota: Dragon's Blood",
+        "year": 2021,
+        "kind": 2,
+        "aliases": []
+      },
+      {
+        "imdb": "tt10611608",
+        "title": "The Cuphead Show!",
+        "year": 2022,
+        "kind": 2,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-game-movies",
+    "type": "movie",
+    "title": "أفضل الأفلام المقتبسة من الألعاب",
+    "title_en": "Best Video Game Movies",
+    "members": [
+      {
+        "imdb": "tt6718170",
+        "title": "The Super Mario Bros. Movie",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3794354",
+        "title": "Sonic the Hedgehog",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt12412888",
+        "title": "Sonic the Hedgehog 2",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt18259086",
+        "title": "Sonic the Hedgehog 3",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5884052",
+        "title": "Pokémon Detective Pikachu",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0803096",
+        "title": "Warcraft",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1365519",
+        "title": "Tomb Raider",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1464335",
+        "title": "Uncharted",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4495098",
+        "title": "Gran Turismo",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0293429",
+        "title": "Mortal Kombat",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4589218",
+        "title": "Five Nights at Freddy's",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0120804",
+        "title": "Resident Evil",
+        "year": 2002,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0384537",
+        "title": "Silent Hill",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0473075",
+        "title": "Prince of Persia: The Sands of Time",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2094766",
+        "title": "Assassin's Creed",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2369135",
+        "title": "Need for Speed",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2231461",
+        "title": "Rampage",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt9288692",
+        "title": "Werewolves Within",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-space-movies",
+    "type": "movie",
+    "title": "أفضل أفلام الفضاء",
+    "title_en": "Best Space Movies",
+    "members": [
+      {
+        "imdb": "tt0816692",
+        "title": "Interstellar",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0062622",
+        "title": "2001: A Space Odyssey",
+        "year": 1968,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3659388",
+        "title": "The Martian",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1454468",
+        "title": "Gravity",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0112384",
+        "title": "Apollo 13",
+        "year": 1995,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2543164",
+        "title": "Arrival",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1182345",
+        "title": "Moon",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0448134",
+        "title": "Sunshine",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2935510",
+        "title": "Ad Astra",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1213641",
+        "title": "First Man",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0118884",
+        "title": "Contact",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0069293",
+        "title": "Solaris",
+        "year": 1972,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0078748",
+        "title": "Alien",
+        "year": 1979,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0090605",
+        "title": "Aliens",
+        "year": 1986,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1355644",
+        "title": "Passengers",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5442430",
+        "title": "Life",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0119081",
+        "title": "Event Horizon",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2051879",
+        "title": "Europa Report",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-horror-movies",
+    "type": "movie",
+    "title": "أفضل أفلام الرعب",
+    "title_en": "Best Horror Movies",
+    "members": [
+      {
+        "imdb": "tt0070047",
+        "title": "The Exorcist",
+        "year": 1973,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0081505",
+        "title": "The Shining",
+        "year": 1980,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0084787",
+        "title": "The Thing",
+        "year": 1982,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt7784604",
+        "title": "Hereditary",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1457767",
+        "title": "The Conjuring",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5052448",
+        "title": "Get Out",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4263482",
+        "title": "The Witch",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3235888",
+        "title": "It Follows",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0230600",
+        "title": "The Others",
+        "year": 2001,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt10638522",
+        "title": "Talk to Me",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2321549",
+        "title": "The Babadook",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1922777",
+        "title": "Sinister",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0298130",
+        "title": "The Ring",
+        "year": 2002,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0072271",
+        "title": "The Texas Chain Saw Massacre",
+        "year": 1974,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0077651",
+        "title": "Halloween",
+        "year": 1978,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0087800",
+        "title": "A Nightmare on Elm Street",
+        "year": 1984,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0185937",
+        "title": "The Blair Witch Project",
+        "year": 1999,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0435625",
+        "title": "The Descent",
+        "year": 2005,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1038988",
+        "title": "[REC]",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5215952",
+        "title": "The Wailing",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-best-comedy",
+    "type": "movie",
+    "title": "أفضل الأفلام الكوميدية",
+    "title_en": "Best Comedy Movies",
+    "members": [
+      {
+        "imdb": "tt0080339",
+        "title": "Airplane!",
+        "year": 1980,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0095705",
+        "title": "The Naked Gun: From the Files of Police Squad!",
+        "year": 1988,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0107048",
+        "title": "Groundhog Day",
+        "year": 1993,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0109686",
+        "title": "Dumb and Dumber",
+        "year": 1994,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0110475",
+        "title": "The Mask",
+        "year": 1994,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0118715",
+        "title": "The Big Lebowski",
+        "year": 1998,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0151804",
+        "title": "Office Space",
+        "year": 1999,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0208092",
+        "title": "Snatch",
+        "year": 2000,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0259446",
+        "title": "My Big Fat Greek Wedding",
+        "year": 2002,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0315327",
+        "title": "Bruce Almighty",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0332379",
+        "title": "School of Rock",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0357413",
+        "title": "Anchorman: The Legend of Ron Burgundy",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0365748",
+        "title": "Shaun of the Dead",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0425112",
+        "title": "Hot Fuzz",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0829482",
+        "title": "Superbad",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0838283",
+        "title": "Step Brothers",
+        "year": 2008,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0942385",
+        "title": "Tropic Thunder",
+        "year": 2008,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1119646",
+        "title": "The Hangover",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1232829",
+        "title": "21 Jump Street",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1490017",
+        "title": "The Lego Movie",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2704998",
+        "title": "Game Night",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt9484998",
+        "title": "Palm Springs",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "theme-egyptian-comedy-movies",
+    "type": "movie",
+    "title": "أفضل الأفلام المصرية الكوميدية",
+    "title_en": "Best Egyptian Comedy Movies",
+    "members": [
+      {
+        "imdb": "tt0424986",
+        "title": "The Headmaster",
+        "year": 2000,
+        "kind": 1,
+        "aliases": [
+          "الناظر",
+          "El Nazer"
+        ]
+      },
+      {
+        "imdb": "tt0419787",
+        "title": "Hammam Fi Amsterdam",
+        "year": 1999,
+        "kind": 1,
+        "aliases": [
+          "همام في أمستردام"
+        ]
+      },
+      {
+        "imdb": "tt2210441",
+        "title": "Black Honey",
+        "year": 2010,
+        "kind": 1,
+        "aliases": [
+          "عسل أسود",
+          "Assal Eswed"
+        ]
+      },
+      {
+        "imdb": "tt2244947",
+        "title": "Can't Complain",
+        "year": 2007,
+        "kind": 1,
+        "aliases": [
+          "كده رضا",
+          "Keda Reda"
+        ]
+      },
+      {
+        "imdb": "tt2156807",
+        "title": "X-Large",
+        "year": 2011,
+        "kind": 1,
+        "aliases": [
+          "إكس لارج",
+          "Iks Larj"
+        ]
+      },
+      {
+        "imdb": "tt1699195",
+        "title": "You Fly",
+        "year": 2009,
+        "kind": 1,
+        "aliases": [
+          "طير إنت",
+          "Teer Enta"
+        ]
+      },
+      {
+        "imdb": "tt1920997",
+        "title": "No Retreat, No Surrender",
+        "year": 2010,
+        "kind": 1,
+        "aliases": [
+          "لا تراجع ولا استسلام",
+          "La Tarago Wa La Esteslam"
+        ]
+      },
+      {
+        "imdb": "tt1981057",
+        "title": "Sameer & Shaheer & Baheer",
+        "year": 2010,
+        "kind": 1,
+        "aliases": [
+          "سمير وشهير وبهير",
+          "Samir wa Shahir wa Bahir"
+        ]
+      },
+      {
+        "imdb": "tt3957098",
+        "title": "World War III",
+        "year": 2014,
+        "kind": 1,
+        "aliases": [
+          "الحرب العالمية الثالثة",
+          "El Harb El Alameya El Talta"
+        ]
+      },
+      {
+        "imdb": "tt0419416",
+        "title": "Abo Ali",
+        "year": 2005,
+        "kind": 1,
+        "aliases": [
+          "أبو علي"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "theme-egyptian-comedy-series",
+    "type": "series",
+    "title": "أفضل المسلسلات المصرية الكوميدية",
+    "title_en": "Best Egyptian Comedy Series",
+    "members": [
+      {
+        "imdb": "tt2290891",
+        "title": "Al Kabeer",
+        "year": 2010,
+        "kind": 2,
+        "aliases": [
+          "الكبير أوي",
+          "El Kabeer Awi",
+          "El Kebeer Awi"
+        ]
+      },
+      {
+        "imdb": "tt11638962",
+        "title": "The Game",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "اللعبة",
+          "El Leaba",
+          "Al Leaba"
+        ]
+      },
+      {
+        "imdb": "tt31956656",
+        "title": "Apartment Works",
+        "year": 2024,
+        "kind": 2,
+        "aliases": [
+          "أشغال شقة",
+          "اشغال شقة",
+          "أشغال شقه",
+          "اشغال شقه",
+          "أشغال شاقة",
+          "Ashghal Shaqa",
+          "Ashghal Shaqqa",
+          "House Duties"
+        ]
+      },
+      {
+        "imdb": "",
+        "title": "Ashghal Shaqa Geddan",
+        "year": 2025,
+        "kind": 2,
+        "aliases": [
+          "أشغال شقة جداً",
+          "اشغال شقة جدا",
+          "Ashghal Shaqa Gedan",
+          "Ashghal Shaqa Geddan"
+        ]
+      },
+      {
+        "imdb": "tt16442566",
+        "title": "Family Matter",
+        "year": 2021,
+        "kind": 2,
+        "aliases": [
+          "موضوع عائلي",
+          "Mawdou Aeli"
+        ]
+      },
+      {
+        "imdb": "tt6221482",
+        "title": "Nelly and Sherihan",
+        "year": 2016,
+        "kind": 2,
+        "aliases": [
+          "نيللي وشريهان"
+        ]
+      },
+      {
+        "imdb": "tt20419474",
+        "title": "El Beit Beity",
+        "year": 2022,
+        "kind": 2,
+        "aliases": [
+          "البيت بيتي",
+          "El Bayt Bayti"
+        ]
+      },
+      {
+        "imdb": "tt19488704",
+        "title": "Maktoub Aliya",
+        "year": 2022,
+        "kind": 2,
+        "aliases": [
+          "مكتوب عليا"
+        ]
+      },
+      {
+        "imdb": "tt2207861",
+        "title": "Ayza Atgawez",
+        "year": 2010,
+        "kind": 2,
+        "aliases": [
+          "عايزة أتجوز"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "theme-chico-works-movie",
+    "type": "movie",
+    "title": "أفلام ومسلسلات شيكو",
+    "title_en": "Chico Movies & Series",
+    "members": [
+      {
+        "imdb": "tt1981057",
+        "title": "Sameer & Shaheer & Baheer",
+        "year": 2010,
+        "kind": 1,
+        "aliases": [
+          "سمير وشهير وبهير",
+          "Samir wa Shahir wa Bahir"
+        ]
+      },
+      {
+        "imdb": "tt6096590",
+        "title": "Banat El Am",
+        "year": 2012,
+        "kind": 1,
+        "aliases": [
+          "بنات العم",
+          "Female Cousins"
+        ]
+      },
+      {
+        "imdb": "tt3957098",
+        "title": "World War III",
+        "year": 2014,
+        "kind": 1,
+        "aliases": [
+          "الحرب العالمية الثالثة",
+          "El Harb El Alameya El Talta"
+        ]
+      },
+      {
+        "imdb": "tt6098416",
+        "title": "Hamlat Feraizar",
+        "year": 2016,
+        "kind": 1,
+        "aliases": [
+          "حملة فريزر"
+        ]
+      },
+      {
+        "imdb": "tt8665900",
+        "title": "Mama's Boy",
+        "year": 2018,
+        "kind": 1,
+        "aliases": [
+          "قلب أمه",
+          "Qalb Ummuh"
+        ]
+      },
+      {
+        "imdb": "tt11879338",
+        "title": "Tasleem Ahaly",
+        "year": 2022,
+        "kind": 1,
+        "aliases": [
+          "تسليم أهالي"
+        ]
+      },
+      {
+        "imdb": "tt27492818",
+        "title": "Ibn el-Hagg Ahmad",
+        "year": 2023,
+        "kind": 1,
+        "aliases": [
+          "ابن الحاج أحمد"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "theme-chico-works-series",
+    "type": "series",
+    "title": "أفلام ومسلسلات شيكو",
+    "title_en": "Chico Movies & Series",
+    "members": [
+      {
+        "imdb": "tt11638962",
+        "title": "The Game",
+        "year": 2020,
+        "kind": 2,
+        "aliases": [
+          "اللعبة",
+          "El Leaba"
+        ]
+      },
+      {
+        "imdb": "tt8764618",
+        "title": "Azmi & Ashjan",
+        "year": 2018,
+        "kind": 2,
+        "aliases": [
+          "عزمي وأشجان"
+        ]
+      },
+      {
+        "imdb": "tt32028578",
+        "title": "Khaled Nour and his son Nour Khaled",
+        "year": 2024,
+        "kind": 2,
+        "aliases": [
+          "خالد نور وولده نور خالد"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "person-tarantino",
+    "type": "movie",
+    "title": "أفلام كوينتن تارانتينو",
+    "title_en": "Films by Quentin Tarantino",
+    "members": [
+      {
+        "imdb": "tt0105236",
+        "title": "Reservoir Dogs",
+        "year": 1992,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0110912",
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0119396",
+        "title": "Jackie Brown",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0266697",
+        "title": "Kill Bill: Vol. 1",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0378194",
+        "title": "Kill Bill: Vol. 2",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1028528",
+        "title": "Death Proof",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0361748",
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1853728",
+        "title": "Django Unchained",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3460252",
+        "title": "The Hateful Eight",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt7131622",
+        "title": "Once Upon a Time... in Hollywood",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "person-nolan",
+    "type": "movie",
+    "title": "أفلام كريستوفر نولان",
+    "title_en": "Films by Christopher Nolan",
+    "members": [
+      {
+        "imdb": "tt0154506",
+        "title": "Following",
+        "year": 1998,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0209144",
+        "title": "Memento",
+        "year": 2000,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0278504",
+        "title": "Insomnia",
+        "year": 2002,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0372784",
+        "title": "Batman Begins",
+        "year": 2005,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0482571",
+        "title": "The Prestige",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0468569",
+        "title": "The Dark Knight",
+        "year": 2008,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1375666",
+        "title": "Inception",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1345836",
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0816692",
+        "title": "Interstellar",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5013056",
+        "title": "Dunkirk",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6723592",
+        "title": "Tenet",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt15398776",
+        "title": "Oppenheimer",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "person-jim-carrey",
+    "type": "movie",
+    "title": "أفلام جيم كاري",
+    "title_en": "Jim Carrey Movies",
+    "members": [
+      {
+        "imdb": "tt0109040",
+        "title": "Ace Ventura: Pet Detective",
+        "year": 1994,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0110475",
+        "title": "The Mask",
+        "year": 1994,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0109686",
+        "title": "Dumb and Dumber",
+        "year": 1994,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0112462",
+        "title": "Batman Forever",
+        "year": 1995,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0112281",
+        "title": "Ace Ventura: When Nature Calls",
+        "year": 1995,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0115798",
+        "title": "The Cable Guy",
+        "year": 1996,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0119528",
+        "title": "Liar Liar",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0120382",
+        "title": "The Truman Show",
+        "year": 1998,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0125664",
+        "title": "Man on the Moon",
+        "year": 1999,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0183505",
+        "title": "Me, Myself & Irene",
+        "year": 2000,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0170016",
+        "title": "How the Grinch Stole Christmas",
+        "year": 2000,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0315327",
+        "title": "Bruce Almighty",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0338013",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0339291",
+        "title": "Lemony Snicket's A Series of Unfortunate Events",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1068680",
+        "title": "Yes Man",
+        "year": 2008,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3794354",
+        "title": "Sonic the Hedgehog",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt12412888",
+        "title": "Sonic the Hedgehog 2",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "person-rowan-atkinson",
+    "type": "movie",
+    "title": "أفلام روان أتكينسون",
+    "title_en": "Rowan Atkinson Movies",
+    "members": [
+      {
+        "imdb": "tt0118689",
+        "title": "Bean",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0453451",
+        "title": "Mr. Bean's Holiday",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0274166",
+        "title": "Johnny English",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1634122",
+        "title": "Johnny English Reborn",
+        "year": 2011,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6921996",
+        "title": "Johnny English Strikes Again",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0250687",
+        "title": "Rat Race",
+        "year": 2001,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0314331",
+        "title": "Love Actually",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0444653",
+        "title": "Keeping Mum",
+        "year": 2005,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "person-leslie-nielsen",
+    "type": "movie",
+    "title": "أفلام ليزلي نيلسن",
+    "title_en": "Leslie Nielsen Movies",
+    "members": [
+      {
+        "imdb": "tt0080339",
+        "title": "Airplane!",
+        "year": 1980,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0095705",
+        "title": "The Naked Gun: From the Files of Police Squad!",
+        "year": 1988,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0102510",
+        "title": "The Naked Gun 2½: The Smell of Fear",
+        "year": 1991,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0110622",
+        "title": "Naked Gun 33⅓: The Final Insult",
+        "year": 1994,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0112896",
+        "title": "Dracula: Dead and Loving It",
+        "year": 1995,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0117723",
+        "title": "Spy Hard",
+        "year": 1996,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0119718",
+        "title": "Mr. Magoo",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0120901",
+        "title": "Wrongfully Accused",
+        "year": 1998,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0100475",
+        "title": "Repossessed",
+        "year": 1990,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0306047",
+        "title": "Scary Movie 3",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0362120",
+        "title": "Scary Movie 4",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0426592",
+        "title": "Superhero Movie",
+        "year": 2008,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-alien",
+    "type": "movie",
+    "title": "سلسلة Alien",
+    "title_en": "Alien",
+    "members": [
+      {
+        "imdb": "tt0078748",
+        "title": "Alien",
+        "year": 1979,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0090605",
+        "title": "Aliens",
+        "year": 1986,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0103644",
+        "title": "Alien 3",
+        "year": 1992,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0118583",
+        "title": "Alien Resurrection",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1446714",
+        "title": "Prometheus",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2316204",
+        "title": "Alien: Covenant",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt18412256",
+        "title": "Alien: Romulus",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-marvel",
+    "type": "movie",
+    "title": "سلسلة عالم مارفل السينمائي",
+    "title_en": "عالم مارفل السينمائي",
+    "members": [
+      {
+        "imdb": "tt0371746",
+        "title": "Iron Man",
+        "year": 2008,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0848228",
+        "title": "The Avengers",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4154796",
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt10872600",
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6263850",
+        "title": "Deadpool & Wolverine",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-star-wars",
+    "type": "movie",
+    "title": "سلسلة Star Wars",
+    "title_en": "Star Wars",
+    "members": [
+      {
+        "imdb": "tt0076759",
+        "title": "Star Wars",
+        "year": 1977,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0080684",
+        "title": "The Empire Strikes Back",
+        "year": 1980,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0086190",
+        "title": "Return of the Jedi",
+        "year": 1983,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0120915",
+        "title": "Star Wars: Episode I - The Phantom Menace",
+        "year": 1999,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0121765",
+        "title": "Star Wars: Episode II - Attack of the Clones",
+        "year": 2002,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0121766",
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "year": 2005,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2488496",
+        "title": "Star Wars: Episode VII - The Force Awakens",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3748528",
+        "title": "Rogue One: A Star Wars Story",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2527336",
+        "title": "Star Wars: Episode VIII - The Last Jedi",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3778644",
+        "title": "Solo: A Star Wars Story",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2527338",
+        "title": "Star Wars: Episode IX - The Rise of Skywalker",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-harry-potter",
+    "type": "movie",
+    "title": "سلسلة Harry Potter",
+    "title_en": "Harry Potter",
+    "members": [
+      {
+        "imdb": "tt0241527",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "year": 2001,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0295297",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "year": 2002,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0304141",
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0330373",
+        "title": "Harry Potter and the Goblet of Fire",
+        "year": 2005,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0373889",
+        "title": "Harry Potter and the Order of the Phoenix",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0417741",
+        "title": "Harry Potter and the Half-Blood Prince",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0926084",
+        "title": "Harry Potter and the Deathly Hallows: Part 1",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1201607",
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-fast-furious",
+    "type": "movie",
+    "title": "سلسلة Fast & Furious",
+    "title_en": "Fast & Furious",
+    "members": [
+      {
+        "imdb": "tt0232500",
+        "title": "The Fast and the Furious",
+        "year": 2001,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0322259",
+        "title": "2 Fast 2 Furious",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0463985",
+        "title": "The Fast and the Furious: Tokyo Drift",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1013752",
+        "title": "Fast & Furious",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1596343",
+        "title": "Fast Five",
+        "year": 2011,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1905041",
+        "title": "Fast & Furious 6",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2820852",
+        "title": "Furious 7",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4630562",
+        "title": "The Fate of the Furious",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6806448",
+        "title": "Fast & Furious Presents: Hobbs & Shaw",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5433138",
+        "title": "F9",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5433140",
+        "title": "Fast X",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-mission-impossible",
+    "type": "movie",
+    "title": "سلسلة Mission: Impossible",
+    "title_en": "Mission: Impossible",
+    "members": [
+      {
+        "imdb": "tt0117060",
+        "title": "Mission: Impossible",
+        "year": 1996,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0120755",
+        "title": "Mission: Impossible II",
+        "year": 2000,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0317919",
+        "title": "Mission: Impossible III",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1229238",
+        "title": "Mission: Impossible - Ghost Protocol",
+        "year": 2011,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2381249",
+        "title": "Mission: Impossible - Rogue Nation",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4912910",
+        "title": "Mission: Impossible - Fallout",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt9603212",
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt9603208",
+        "title": "Mission: Impossible - The Final Reckoning",
+        "year": 2025,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-james-bond",
+    "type": "movie",
+    "title": "سلسلة James Bond",
+    "title_en": "James Bond",
+    "members": [
+      {
+        "imdb": "",
+        "title": "Dr. No",
+        "year": 1962,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "From Russia with Love",
+        "year": 1963,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "Goldfinger",
+        "year": 1964,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "",
+        "title": "GoldenEye",
+        "year": 1995,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0381061",
+        "title": "Casino Royale",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1074638",
+        "title": "Skyfall",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2382320",
+        "title": "No Time to Die",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-jurassic",
+    "type": "movie",
+    "title": "سلسلة Jurassic Park / World",
+    "title_en": "Jurassic Park / World",
+    "members": [
+      {
+        "imdb": "tt0107290",
+        "title": "Jurassic Park",
+        "year": 1993,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0119567",
+        "title": "The Lost World: Jurassic Park",
+        "year": 1997,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0163025",
+        "title": "Jurassic Park III",
+        "year": 2001,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0369610",
+        "title": "Jurassic World",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4881806",
+        "title": "Jurassic World: Fallen Kingdom",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt8041270",
+        "title": "Jurassic World Dominion",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-pirates-caribbean",
+    "type": "movie",
+    "title": "سلسلة قراصنة الكاريبي",
+    "title_en": "Pirates of the Caribbean",
+    "members": [
+      {
+        "imdb": "tt0325980",
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0383574",
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0449088",
+        "title": "Pirates of the Caribbean: At World's End",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1298650",
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "year": 2011,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1790809",
+        "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-fantastic-beasts",
+    "type": "movie",
+    "title": "سلسلة الوحوش المذهلة",
+    "title_en": "Fantastic Beasts",
+    "members": [
+      {
+        "imdb": "tt3183660",
+        "title": "Fantastic Beasts and Where to Find Them",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4123430",
+        "title": "Fantastic Beasts: The Crimes of Grindelwald",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4123432",
+        "title": "Fantastic Beasts: The Secrets of Dumbledore",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-the-hobbit",
+    "type": "movie",
+    "title": "سلسلة الهوبيت",
+    "title_en": "The Hobbit",
+    "members": [
+      {
+        "imdb": "tt0903624",
+        "title": "The Hobbit: An Unexpected Journey",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1170358",
+        "title": "The Hobbit: The Desolation of Smaug",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2310332",
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-john-wick",
+    "type": "movie",
+    "title": "سلسلة John Wick",
+    "title_en": "John Wick",
+    "members": [
+      {
+        "imdb": "tt2911666",
+        "title": "John Wick",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4425200",
+        "title": "John Wick: Chapter 2",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6146586",
+        "title": "John Wick: Chapter 3 - Parabellum",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt10366206",
+        "title": "John Wick: Chapter 4",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-matrix",
+    "type": "movie",
+    "title": "سلسلة The Matrix",
+    "title_en": "The Matrix",
+    "members": [
+      {
+        "imdb": "tt0133093",
+        "title": "The Matrix",
+        "year": 1999,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0234215",
+        "title": "The Matrix Reloaded",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0242653",
+        "title": "The Matrix Revolutions",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt10838180",
+        "title": "The Matrix Resurrections",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-transformers",
+    "type": "movie",
+    "title": "سلسلة Transformers",
+    "title_en": "Transformers",
+    "members": [
+      {
+        "imdb": "tt0418279",
+        "title": "Transformers",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1055369",
+        "title": "Transformers: Revenge of the Fallen",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1399103",
+        "title": "Transformers: Dark of the Moon",
+        "year": 2011,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2109248",
+        "title": "Transformers: Age of Extinction",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3371366",
+        "title": "Transformers: The Last Knight",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4701182",
+        "title": "Bumblebee",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5090568",
+        "title": "Transformers: Rise of the Beasts",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-terminator",
+    "type": "movie",
+    "title": "سلسلة Terminator",
+    "title_en": "Terminator",
+    "members": [
+      {
+        "imdb": "tt0088247",
+        "title": "The Terminator",
+        "year": 1984,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0103064",
+        "title": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0181852",
+        "title": "Terminator 3: Rise of the Machines",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0438488",
+        "title": "Terminator Salvation",
+        "year": 2009,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1340138",
+        "title": "Terminator Genisys",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6450804",
+        "title": "Terminator: Dark Fate",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-indiana-jones",
+    "type": "movie",
+    "title": "سلسلة Indiana Jones",
+    "title_en": "Indiana Jones",
+    "members": [
+      {
+        "imdb": "tt0082971",
+        "title": "Raiders of the Lost Ark",
+        "year": 1981,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0087469",
+        "title": "Indiana Jones and the Temple of Doom",
+        "year": 1984,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0097576",
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 1989,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0367882",
+        "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "year": 2008,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1462764",
+        "title": "Indiana Jones and the Dial of Destiny",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-bourne",
+    "type": "movie",
+    "title": "سلسلة Bourne",
+    "title_en": "Bourne",
+    "members": [
+      {
+        "imdb": "tt0258463",
+        "title": "The Bourne Identity",
+        "year": 2002,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0372183",
+        "title": "The Bourne Supremacy",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0440963",
+        "title": "The Bourne Ultimatum",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1194173",
+        "title": "The Bourne Legacy",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4196776",
+        "title": "Jason Bourne",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-hunger-games",
+    "type": "movie",
+    "title": "سلسلة The Hunger Games",
+    "title_en": "The Hunger Games",
+    "members": [
+      {
+        "imdb": "tt1392170",
+        "title": "The Hunger Games",
+        "year": 2012,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1951264",
+        "title": "The Hunger Games: Catching Fire",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1951265",
+        "title": "The Hunger Games: Mockingjay - Part 1",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1951266",
+        "title": "The Hunger Games: Mockingjay - Part 2",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt10545296",
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-rocky-creed",
+    "type": "movie",
+    "title": "سلسلة Rocky / Creed",
+    "title_en": "Rocky / Creed",
+    "members": [
+      {
+        "imdb": "tt0075148",
+        "title": "Rocky",
+        "year": 1976,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0079817",
+        "title": "Rocky II",
+        "year": 1979,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0084602",
+        "title": "Rocky III",
+        "year": 1982,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0089927",
+        "title": "Rocky IV",
+        "year": 1985,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0100507",
+        "title": "Rocky V",
+        "year": 1990,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0479143",
+        "title": "Rocky Balboa",
+        "year": 2006,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3076658",
+        "title": "Creed",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt6343314",
+        "title": "Creed II",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt11145118",
+        "title": "Creed III",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-toy-story",
+    "type": "movie",
+    "title": "سلسلة Toy Story",
+    "title_en": "Toy Story",
+    "members": [
+      {
+        "imdb": "tt0114709",
+        "title": "Toy Story",
+        "year": 1995,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0120363",
+        "title": "Toy Story 2",
+        "year": 1999,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0435761",
+        "title": "Toy Story 3",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1979376",
+        "title": "Toy Story 4",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-shrek",
+    "type": "movie",
+    "title": "سلسلة Shrek",
+    "title_en": "Shrek",
+    "members": [
+      {
+        "imdb": "tt0126029",
+        "title": "Shrek",
+        "year": 2001,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0298148",
+        "title": "Shrek 2",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0413267",
+        "title": "Shrek the Third",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0892791",
+        "title": "Shrek Forever After",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-kung-fu-panda",
+    "type": "movie",
+    "title": "سلسلة Kung Fu Panda",
+    "title_en": "Kung Fu Panda",
+    "members": [
+      {
+        "imdb": "tt0441773",
+        "title": "Kung Fu Panda",
+        "year": 2008,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1302011",
+        "title": "Kung Fu Panda 2",
+        "year": 2011,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2267968",
+        "title": "Kung Fu Panda 3",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt21692408",
+        "title": "Kung Fu Panda 4",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-mad-max",
+    "type": "movie",
+    "title": "سلسلة Mad Max",
+    "title_en": "Mad Max",
+    "members": [
+      {
+        "imdb": "tt0079501",
+        "title": "Mad Max",
+        "year": 1979,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0082694",
+        "title": "Mad Max 2",
+        "year": 1981,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0100095",
+        "title": "Mad Max Beyond Thunderdome",
+        "year": 1985,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1392190",
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt12037194",
+        "title": "Furiosa: A Mad Max Saga",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-despicable-me",
+    "type": "movie",
+    "title": "سلسلة Despicable Me / Minions",
+    "title_en": "Despicable Me / Minions",
+    "members": [
+      {
+        "imdb": "tt1323594",
+        "title": "Despicable Me",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1690953",
+        "title": "Despicable Me 2",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2293640",
+        "title": "Minions",
+        "year": 2015,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3469046",
+        "title": "Despicable Me 3",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5113044",
+        "title": "Minions: The Rise of Gru",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt7510222",
+        "title": "Despicable Me 4",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-monsterverse",
+    "type": "movie",
+    "title": "سلسلة MonsterVerse",
+    "title_en": "MonsterVerse",
+    "members": [
+      {
+        "imdb": "tt0831387",
+        "title": "Godzilla",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3731562",
+        "title": "Kong: Skull Island",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3741700",
+        "title": "Godzilla: King of the Monsters",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5034838",
+        "title": "Godzilla vs. Kong",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt14539740",
+        "title": "Godzilla x Kong: The New Empire",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-lord-of-the-rings",
+    "type": "movie",
+    "title": "سلسلة The Lord of the Rings",
+    "title_en": "The Lord of the Rings",
+    "members": [
+      {
+        "imdb": "tt0120737",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0167261",
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0167260",
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-planet-apes-modern",
+    "type": "movie",
+    "title": "سلسلة Planet of the Apes — الحديثة",
+    "title_en": "Planet of the Apes — Modern Saga",
+    "members": [
+      {
+        "imdb": "tt1318514",
+        "title": "Rise of the Planet of the Apes",
+        "year": 2011,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2103281",
+        "title": "Dawn of the Planet of the Apes",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3450958",
+        "title": "War for the Planet of the Apes",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt11389872",
+        "title": "Kingdom of the Planet of the Apes",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-predator",
+    "type": "movie",
+    "title": "سلسلة Predator",
+    "title_en": "Predator",
+    "members": [
+      {
+        "imdb": "tt0093773",
+        "title": "Predator",
+        "year": 1987,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0100403",
+        "title": "Predator 2",
+        "year": 1990,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1424381",
+        "title": "Predators",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3829266",
+        "title": "The Predator",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt11866324",
+        "title": "Prey",
+        "year": 2022,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-back-to-future",
+    "type": "movie",
+    "title": "سلسلة Back to the Future",
+    "title_en": "Back to the Future",
+    "members": [
+      {
+        "imdb": "tt0088763",
+        "title": "Back to the Future",
+        "year": 1985,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0096874",
+        "title": "Back to the Future Part II",
+        "year": 1989,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0099088",
+        "title": "Back to the Future Part III",
+        "year": 1990,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-dune-modern",
+    "type": "movie",
+    "title": "سلسلة Dune — الحديثة",
+    "title_en": "Dune — Modern Saga",
+    "members": [
+      {
+        "imdb": "tt1160419",
+        "title": "Dune",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt15239678",
+        "title": "Dune: Part Two",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-quiet-place",
+    "type": "movie",
+    "title": "سلسلة A Quiet Place",
+    "title_en": "A Quiet Place",
+    "members": [
+      {
+        "imdb": "tt6644200",
+        "title": "A Quiet Place",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt8332922",
+        "title": "A Quiet Place Part II",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt13433802",
+        "title": "A Quiet Place: Day One",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-conjuring-universe",
+    "type": "movie",
+    "title": "سلسلة عالم The Conjuring",
+    "title_en": "The Conjuring Universe",
+    "members": [
+      {
+        "imdb": "tt1457767",
+        "title": "The Conjuring",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3322940",
+        "title": "Annabelle",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt3065204",
+        "title": "The Conjuring 2",
+        "year": 2016,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5140878",
+        "title": "Annabelle: Creation",
+        "year": 2017,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5814060",
+        "title": "The Nun",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4913966",
+        "title": "The Curse of La Llorona",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt8350360",
+        "title": "Annabelle Comes Home",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt7069210",
+        "title": "The Conjuring: The Devil Made Me Do It",
+        "year": 2021,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt10160976",
+        "title": "The Nun II",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-godfather",
+    "type": "movie",
+    "title": "سلسلة The Godfather",
+    "title_en": "The Godfather",
+    "members": [
+      {
+        "imdb": "tt0068646",
+        "title": "The Godfather",
+        "year": 1972,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0071562",
+        "title": "The Godfather Part II",
+        "year": 1974,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0099674",
+        "title": "The Godfather Part III",
+        "year": 1990,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-rambo",
+    "type": "movie",
+    "title": "سلسلة Rambo",
+    "title_en": "Rambo",
+    "members": [
+      {
+        "imdb": "tt0083944",
+        "title": "First Blood",
+        "year": 1982,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0089880",
+        "title": "Rambo: First Blood Part II",
+        "year": 1985,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0095956",
+        "title": "Rambo III",
+        "year": 1988,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0462499",
+        "title": "Rambo",
+        "year": 2008,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1206885",
+        "title": "Rambo: Last Blood",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-bad-boys",
+    "type": "movie",
+    "title": "سلسلة Bad Boys",
+    "title_en": "Bad Boys",
+    "members": [
+      {
+        "imdb": "tt0112442",
+        "title": "Bad Boys",
+        "year": 1995,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0172156",
+        "title": "Bad Boys II",
+        "year": 2003,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1502397",
+        "title": "Bad Boys for Life",
+        "year": 2020,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt4919268",
+        "title": "Bad Boys: Ride or Die",
+        "year": 2024,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-oceans",
+    "type": "movie",
+    "title": "سلسلة Ocean's",
+    "title_en": "Ocean's",
+    "members": [
+      {
+        "imdb": "tt0240772",
+        "title": "Ocean's Eleven",
+        "year": 2001,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0349903",
+        "title": "Ocean's Twelve",
+        "year": 2004,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0496806",
+        "title": "Ocean's Thirteen",
+        "year": 2007,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt5164214",
+        "title": "Ocean's Eight",
+        "year": 2018,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-evil-dead",
+    "type": "movie",
+    "title": "سلسلة Evil Dead",
+    "title_en": "Evil Dead",
+    "members": [
+      {
+        "imdb": "tt0083907",
+        "title": "The Evil Dead",
+        "year": 1981,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0092991",
+        "title": "Evil Dead II",
+        "year": 1987,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt0106308",
+        "title": "Army of Darkness",
+        "year": 1992,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1288558",
+        "title": "Evil Dead",
+        "year": 2013,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt13345606",
+        "title": "Evil Dead Rise",
+        "year": 2023,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": "franchise-dragon",
+    "type": "movie",
+    "title": "سلسلة How to Train Your Dragon",
+    "title_en": "How to Train Your Dragon",
+    "members": [
+      {
+        "imdb": "tt0892769",
+        "title": "How to Train Your Dragon",
+        "year": 2010,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt1646971",
+        "title": "How to Train Your Dragon 2",
+        "year": 2014,
+        "kind": 1,
+        "aliases": []
+      },
+      {
+        "imdb": "tt2386490",
+        "title": "How to Train Your Dragon: The Hidden World",
+        "year": 2019,
+        "kind": 1,
+        "aliases": []
+      }
+    ]
+  }
+]
