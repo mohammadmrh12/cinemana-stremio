@@ -1,0 +1,1 @@
+# Cinemana Stremio\n\nIndependent Stremio addon for curated Cinemana collections, franchises, search and direct playback. Runtime is hosted independently from Cinematic+.\n\nInstall the deployed `/manifest.json` URL in Stremio.\n
